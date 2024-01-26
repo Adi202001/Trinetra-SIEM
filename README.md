@@ -18,3 +18,9 @@ Trinetra-SIEM is an advanced Security Information and Event Management (SIEM) pr
 
    ```bash
    git clone https://github.com/Adi202001/Trinetra-SIEM.git
+
+2. install python library:
+
+   ```
+   pip install -r requirements.txt
+   ```
