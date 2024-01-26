@@ -1,6 +1,6 @@
 # Trinetra-SIEM
 
-<img src="8466621.jpg" alt="Trinetra-SIEM Logo" width="50">
+<img src="8466621.jpg" alt="Trinetra-SIEM Logo" width="100">
 
 Trinetra-SIEM is an advanced Security Information and Event Management (SIEM) project designed to provide robust security solutions for organizations. Monitor, detect, and respond to security incidents in real-time with our comprehensive platform.
 
