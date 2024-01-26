@@ -17,4 +17,4 @@ Trinetra-SIEM is an advanced Security Information and Event Management (SIEM) pr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/trinetra-siem.git
+   git clone https://github.com/Adi202001/Trinetra-SIEM.git
